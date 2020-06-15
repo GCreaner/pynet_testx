@@ -1,6 +1,6 @@
-print "hello"
+print("hello")
 
-print "hello again"
+print("hello again")
 
 for i in range(10):
-    print i
+    print(i)
